@@ -493,17 +493,17 @@ export const sideBarRightMail = {
 
 export const sideBarLeftSocials = [
   {
-    link: "https://www.linkedin.com/in/alpay/",
+    link: "https://www.linkedin.com/in/renan-viega-2435371a6",
     icon: FiLinkedin,
     altimgname: "linkedin",
   },
   {
-    link: "https://github.com/AlpayC",
+    link: "https://github.com/xingarr",
     icon: FiGithub,
     altimgname: "github",
   },
   {
-    link: "mailto:myemail@com",
+    link: "mailto:ninja990621@gmail.com",
     icon: FiMail,
     altimgname: "mail",
   },
